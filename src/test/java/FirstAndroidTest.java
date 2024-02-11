@@ -36,7 +36,7 @@ public class FirstAndroidTest {
 
         // calculator element
         driver.findElement(By.xpath("//android.widget.Button[@resource-id=\"com.bak.mnr.calculatrice:id/btn2\"]")).click();
-
+    //
     Thread.sleep(5000);
 
     }
